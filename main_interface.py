@@ -179,7 +179,7 @@ class GUI(QWidget):
 
 
     def enterPress(self):
-        print ('mon gros cul ca marhe pas')
+        print ('test enter')
                 
         
     def checkboxStateChanged(self):
